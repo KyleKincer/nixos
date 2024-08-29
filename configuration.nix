@@ -112,6 +112,7 @@
     spotify
     bitwarden-desktop
     bitwarden-cli
+    mako
   ];
 
   environment.variables = {
