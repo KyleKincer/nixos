@@ -113,6 +113,9 @@
     bitwarden-desktop
     bitwarden-cli
     mako
+    grim
+    slurp
+    wl-clipboard
   ];
 
   environment.variables = {
